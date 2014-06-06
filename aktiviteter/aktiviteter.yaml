@@ -1,12 +1,12 @@
---- # Aktiviteter
+ï»¿--- # Aktiviteter
 
-- Aktivitet: Øvelse
+- Aktivitet: Ã˜velse
   Navn: Erik Bye
-  Beskrivelse: Ekstraøvelse før Erik Bye-konserten
+  Beskrivelse: EkstraÃ¸velse fÃ¸r Erik Bye-konserten
   TidspunktStart: 2014-05-24 13:00
   TidspunktSlutt: 2014-05-24 16:00
   Sted: &baathus
-    Navn: Båthusteateret, Fredrikstad
+    Navn: BÃ¥thusteateret, Fredrikstad
     Lengdegrad: 59.211588
     Breddegrad: 10.934392
   Riggegruppe: 1
@@ -15,13 +15,13 @@
 - Aktivitet: Konsert
   Navn: Erik Bye
   Beskrivelse: >
-    Konserten er en hyllest til Erik Bye sine udødelige viser. Vi har funnet fram noen av de mest kjente tingene han skrev.
+    Konserten er en hyllest til Erik Bye sine udÃ¸delige viser. Vi har funnet fram noen av de mest kjente tingene han skrev.
       
-    I anledning knytningen mellom Erik Bye og Alf prøysen etc...
+    I anledning knytningen mellom Erik Bye og Alf prÃ¸ysen etc...
       
-    Konserten vil ha et maritimt preg og være på Båthusteateret i Fredrikstad som ligger på brygge
-    midt i Fredrikstad sentrum. Solist og konferansier vil være Alexander Hermansen som er en lokal artist
-    fra Fredrikstad med nære bånd til det maritime miljøet i byen.
+    Konserten vil ha et maritimt preg og vÃ¦re pÃ¥ BÃ¥thusteateret i Fredrikstad som ligger pÃ¥ brygge
+    midt i Fredrikstad sentrum. Solist og konferansier vil vÃ¦re Alexander Hermansen som er en lokal artist
+    fra Fredrikstad med nÃ¦re bÃ¥nd til det maritime miljÃ¸et i byen.
   TidspunktStart: 2014-05-24 19:00
   TidspunktSlutt: 2014-05-24 21:00
   Sted: *baathus
@@ -29,9 +29,9 @@
   Antrekk: Maritimt/Sommerlig
 
   
-- Aktivitet: Øvelse
-  Navn: Ordinær
-  Beskrivelse: Vanlig øvelse med Sverre som dirigent
+- Aktivitet: Ã˜velse
+  Navn: OrdinÃ¦r
+  Beskrivelse: Vanlig Ã¸velse med Sverre som dirigent
   TidspunktStart: 2014-05-27 19:00
   TidspunktSlutt: 2014-05-27 22:00
   Sted: &denofa
@@ -52,14 +52,14 @@
   TidspunktStart: 2014-06-03 08:00
     
 - Aktivitet: Oppdrag
-  Navn: Bylørdag
-  Beskrivelse: Bylørdag nr 2 i Fredrikstad sentrum. 10.000 kr i kassa!
+  Navn: BylÃ¸rdag
+  Beskrivelse: BylÃ¸rdag nr 2 i Fredrikstad sentrum. 10.000 kr i kassa!
   TidspunktStart: 2014-06-07 11:00
   Antrekk: Borgegenser. Ellers ad lib.
 
-- Aktivitet: Øvelse
-  Navn: Ordinær
-  Beskrivelse: Vanlig øvelse med Sverre som dirigent
+- Aktivitet: Ã˜velse
+  Navn: OrdinÃ¦r
+  Beskrivelse: Vanlig Ã¸velse med Sverre som dirigent
   TidspunktStart: 2014-06-03 19:00
   TidspunktSlutt: 2014-06-03 22:00
   Sted: *denofa
