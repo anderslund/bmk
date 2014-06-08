@@ -1,66 +1,145 @@
 ﻿--- # Aktiviteter
 
 - Aktivitet: Øvelse
-  Navn: Erik Bye
-  Beskrivelse: Ekstraøvelse før Erik Bye-konserten
-  TidspunktStart: 2014-05-24 13:00
-  TidspunktSlutt: 2014-05-24 16:00
-  Sted: &baathus
-    Navn: Båthusteateret, Fredrikstad
+  Navn: Sommerkonsert
+  Beskrivelse: Ekstraøvelse før sommerkonserten
+  TidspunktStart: 2014-06-14 14:00
+  Sted: &domkirken
+    Navn: Domkirken, Fredrikstad
     Lengdegrad: 59.211588
     Breddegrad: 10.934392
   Riggegruppe: 1
 
 
 - Aktivitet: Konsert
-  Navn: Erik Bye
+  Navn: Sommerkonsert
   Beskrivelse: >
-    Konserten er en hyllest til Erik Bye sine udødelige viser. Vi har funnet fram noen av de mest kjente tingene han skrev.
-      
-    I anledning knytningen mellom Erik Bye og Alf prøysen etc...
-      
-    Konserten vil ha et maritimt preg og være på Båthusteateret i Fredrikstad som ligger på brygge
-    midt i Fredrikstad sentrum. Solist og konferansier vil være Alexander Hermansen som er en lokal artist
-    fra Fredrikstad med nære bånd til det maritime miljøet i byen.
-  TidspunktStart: 2014-05-24 19:00
-  TidspunktSlutt: 2014-05-24 21:00
-  Sted: *baathus
+    Vi avslutter sesongen med en konsert i Fredrikstad Domkirke. På programmet står blant annet:
+	
+	 - Tall Ships (Ron Goodwin)
+     - Og teksten var av Alf Prøysen (Tom Skjellum)
+     - Kronprins Olavs Honnørmarsj (Oscar Borg)
+     - SS Norway (Frode Thingnæs)
+     - Shepherd's Hey (Percy Grainger)
+     - The Lost Lady Found (Percy Grainger)
+     - Flåklypa (Lars Erik Gudim)
+     - Bruremarsj frå Beiarn (Jan Magne Førde) - solist: Kenneth Angeland
+     - Umona (Jan Magne Førde)   
+  TidspunktStart: 2014-06-14 16:00
+  TidspunktSlutt: 2014-06-14 18:00
+  Sted: *domkirken
   Riggegruppe: 1 
-  Antrekk: Maritimt/Sommerlig
+  Antrekk: Svart
+  
+  
+- Aktivitet: Sosialt
+  Navn: Sommeravslutning
+  Beskrivelse: Vi tar en heidundrende sommeravslutning på Langøens Båtforening på Kråkerøy.
+  TidspunktStart: 2014-06-14 19:00
 
   
 - Aktivitet: Øvelse
-  Navn: Ordinær
+  Navn: Første øvelse høsten 2014
   Beskrivelse: Vanlig øvelse med Sverre som dirigent
-  TidspunktStart: 2014-05-27 19:00
-  TidspunktSlutt: 2014-05-27 22:00
+  TidspunktStart: 2014-08-19 19:00
+  TidspunktSlutt: 2014-08-19 19:00
   Sted: &denofa
     Navn: Velferdsbygget, Denofa
     Lengdegrad: 59.194076
     Breddegrad: 10.953027
   Riggegruppe: 1
     
-    
-- Aktivitet: Oppdrag
-  Navn: Varetelling REMA
-  Beskrivelse: Vi tar en heidundrende varetelling for Rema og tjener 10.000 raske.
-  TidspunktStart: 2014-06-01 08:00
-    
-- Aktivitet: Oppdrag
-  Navn: Tjo og hei
-  Beskrivelse: Vi tar en heidundrende varetelling for Rema og tjener 10.000 raske.
-  TidspunktStart: 2014-06-03 08:00
-    
-- Aktivitet: Oppdrag
-  Navn: Bylørdag
-  Beskrivelse: Bylørdag nr 2 i Fredrikstad sentrum. 10.000 kr i kassa!
-  TidspunktStart: 2014-06-07 11:00
-  Antrekk: Borgegenser. Ellers ad lib.
 
 - Aktivitet: Øvelse
   Navn: Ordinær
   Beskrivelse: Vanlig øvelse med Sverre som dirigent
-  TidspunktStart: 2014-06-03 19:00
-  TidspunktSlutt: 2014-06-03 22:00
+  TidspunktStart: 2014-08-26 19:00
+  TidspunktSlutt: 2014-08-26 22:00
   Sted: *denofa
+  Riggegruppe: 2
+  
+  
+- Aktivitet: Øvelse
+  Navn: Ordinær
+  Beskrivelse: Vanlig øvelse med Sverre som dirigent
+  TidspunktStart: 2014-09-02 19:00
+  TidspunktSlutt: 2014-09-02 22:00
+  Sted: *denofa
+  Riggegruppe: 2
+  
+  
+- Aktivitet: Øvelse
+  Navn: Ordinær
+  Beskrivelse: Vanlig øvelse med Sverre som dirigent
+  TidspunktStart: 2014-09-09 19:00
+  TidspunktSlutt: 2014-09-09 22:00
+  Sted: *denofa
+  Riggegruppe: 2
+  
+  
+- Aktivitet: Øvelse
+  Navn: Ordinær
+  Beskrivelse: Vanlig øvelse med Sverre som dirigent
+  TidspunktStart: 2014-09-16 19:00
+  TidspunktSlutt: 2014-09-16 22:00
+  Sted: *denofa
+  Riggegruppe: 2
+
+- Aktivitet: Øvelse
+  Navn: Ordinær
+  Beskrivelse: Vanlig øvelse med Sverre som dirigent
+  TidspunktStart: 2014-09-23 19:00
+  TidspunktSlutt: 2014-09-23 22:00
+  Sted: *denofa
+  Riggegruppe: 2
+  
+- Aktivitet: Øvelse
+  Navn: Ordinær
+  Beskrivelse: Vanlig øvelse med Sverre som dirigent
+  TidspunktStart: 2014-09-30 19:00
+  TidspunktSlutt: 2014-09-30 22:00
+  Sted: *denofa
+  Riggegruppe: 2
+  
+- Aktivitet: Øvelse
+  Navn: Ordinær
+  Beskrivelse: Vanlig øvelse med Sverre som dirigent
+  TidspunktStart: 2014-10-07 19:00
+  TidspunktSlutt: 2014-10-07 22:00
+  Sted: *denofa
+  Riggegruppe: 2
+  
+- Aktivitet: Øvelse
+  Navn: Ordinær
+  Beskrivelse: Vanlig øvelse med Sverre som dirigent
+  TidspunktStart: 2014-10-14 19:00
+  TidspunktSlutt: 2014-10-14 22:00
+  Sted: *denofa
+  Riggegruppe: 2
+  
+- Aktivitet: Øvelse
+  Navn: Verdensrommet
+  Beskrivelse: Ekstraøvelse før konserten
+  TidspunktStart: 2014-10-18 10:00
+  TidspunktSlutt: 2014-10-18 16:00
+  Sted: &blaagrotte
+    Navn: Blå Grotte
+	Lengdegrad: 59.210508
+	Breddegrad: 10.939579
+  Riggegruppe: 2
+  
+- Aktivitet: Øvelse
+  Navn: Verdensrommet
+  Beskrivelse: Ekstraøvelse før konserten
+  TidspunktStart: 2014-10-19 12:00
+  TidspunktSlutt: 2014-10-19 16:00
+  Sted: *blaagrotte
+  Riggegruppe: 2
+  
+- Aktivitet: Konsert
+  Navn: Verdensrommet
+  Beskrivelse: Høstens høydepunkt
+  TidspunktStart: 2014-10-19 19:00
+  TidspunktSlutt: 2014-10-19 21:00
+  Sted: *blaagrotte
   Riggegruppe: 2
