@@ -6,8 +6,8 @@
   TidspunktStart: 2014-06-14 14:00
   Sted: &domkirken
     Navn: Domkirken, Fredrikstad
-    Lengdegrad: 59.211588
-    Breddegrad: 10.934392
+    Lengdegrad: 59.209403
+    Breddegrad: 10.94256
   Riggegruppe: 1
 
 
@@ -32,10 +32,10 @@
   Antrekk: Svart
   
   
-- Aktivitet: Sosialt
-  Navn: Sommeravslutning
-  Beskrivelse: Vi tar en heidundrende sommeravslutning på Langøens Båtforening på Kråkerøy.
-  TidspunktStart: 2014-06-14 19:00
+#- Aktivitet: Sosialt
+#  Navn: Sommeravslutning
+#  Beskrivelse: Vi tar en heidundrende sommeravslutning på Langøens Båtforening på Kråkerøy.
+#  TidspunktStart: 2014-06-14 19:00
 
   
 - Aktivitet: Øvelse
