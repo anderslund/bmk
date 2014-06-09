@@ -13,8 +13,8 @@
 #
 # Sted: &fredrikstad
 #    Navn: Fredrikstad sentrum
-#    Lengdegrad: 59.214929
-#    Breddegrad: 10.939728
+#    Lengdegrad: 59.214779
+#    Breddegrad: 10.939807
 #	
 # Sted: &blaagrotte
 #    Navn: Blå Grotte
@@ -67,8 +67,8 @@
   TidspunktSlutt: 2014-06-28 16:00
   Sted: &fredrikstad
     Navn: Fredrikstad sentrum
-    Lengdegrad: 59.214929
-    Breddegrad: 10.939728
+    Lengdegrad: 59.214779
+    Breddegrad: 10.939807
   Riggegruppe: 1
   
 - Aktivitet: Øvelse
