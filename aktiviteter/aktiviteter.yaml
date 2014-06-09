@@ -1,5 +1,27 @@
 ﻿--- # Aktiviteter
 
+#########################################################################################
+# Sted: &denofa
+#    Navn: Velferdsbygget, Denofa
+#    Lengdegrad: 59.194076
+#    Breddegrad: 10.953027
+# 
+# Sted: &domkirken
+#    Navn: Domkirken, Fredrikstad
+#    Lengdegrad: 59.209403
+#    Breddegrad: 10.94256
+#
+# Sted: &fredrikstad
+#    Navn: Fredrikstad sentrum
+#    Lengdegrad: 59.214929
+#    Breddegrad: 10.939728
+#	
+# Sted: &blaagrotte
+#    Navn: Blå Grotte
+#    Lengdegrad: 59.210508
+#    Breddegrad: 10.939579
+######################################################################################### 
+
 - Aktivitet: Øvelse
   Navn: Sommerkonsert
   Beskrivelse: Ekstraøvelse før sommerkonserten
@@ -10,7 +32,8 @@
     Breddegrad: 10.94256
   Riggegruppe: 1
 
-
+  
+# > betyr at linjeskift og annen whitespace skal beholdes 
 - Aktivitet: Konsert
   Navn: Sommerkonsert
   Beskrivelse: >
@@ -37,6 +60,16 @@
   Beskrivelse: Vi tar en heidundrende sommeravslutning på Langøens Båtforening på Kråkerøy.
   TidspunktStart: 2014-06-14 19:00
 
+- Aktivitet: Oppdrag
+  Navn: Glommafestivalen
+  Beskrivelse: Vi setter Fredrikstad på hodet med feiende flott musikk :-)
+  TidspunktStart: 2014-06-28 11:00
+  TidspunktSlutt: 2014-06-28 16:00
+  Sted: &fredrikstad
+    Navn: Fredrikstad sentrum
+    Lengdegrad: 59.214929
+    Breddegrad: 10.939728
+  Riggegruppe: 1
   
 - Aktivitet: Øvelse
   Navn: Første øvelse høsten 2014
@@ -49,6 +82,16 @@
     Breddegrad: 10.953027
   Riggegruppe: 1
     
+- Aktivitet: Sosialt
+  Navn: Kickoff 2015
+  Beskrivelse: Sosial samling på Dillingøya i Vansjø utenfor Moss
+  TidspunktStart: 2014-08-23 11:00
+  TidspunktSlutt: 2014-08-24 15:00
+  Sted: 
+    Navn: Dillingøya i Vansjø (foreløpig)
+    Lengdegrad: 59.440275
+    Breddegrad: 10.78149
+  Riggegruppe: 1
 
 - Aktivitet: Øvelse
   Navn: Ordinær
@@ -59,6 +102,18 @@
   Riggegruppe: 2
   
   
+- Aktivitet: Oppdrag
+  Navn: Bylørdag
+  Beskrivelse: Vi setter Fredrikstad på hodet med feiende flott musikk :-)
+  TidspunktStart: 2014-08-30 11:00
+  TidspunktSlutt: 2014-08-30 16:00
+  Sted: &fredrikstad
+    Navn: Fredrikstad sentrum
+    Lengdegrad: 59.214929
+    Breddegrad: 10.939728
+  Riggegruppe: 1
+  
+  
 - Aktivitet: Øvelse
   Navn: Ordinær
   Beskrivelse: Vanlig øvelse med Sverre som dirigent
@@ -66,6 +121,14 @@
   TidspunktSlutt: 2014-09-02 22:00
   Sted: *denofa
   Riggegruppe: 2
+  
+- Aktivitet: Oppdrag
+  Navn: Paviljongen i kirkeparken
+  Beskrivelse: Storband-konsert for Lions
+  TidspunktStart: 2014-08-30 18:00
+  TidspunktSlutt: 2014-08-30 20:00
+  Sted: *domkirken
+  Riggegruppe: 1
   
   
 - Aktivitet: Øvelse
@@ -141,5 +204,34 @@
   Beskrivelse: Høstens høydepunkt
   TidspunktStart: 2014-10-19 19:00
   TidspunktSlutt: 2014-10-19 21:00
+  Sted: *blaagrotte
+  Riggegruppe: 2
+  
+- Aktivitet: Øvelse
+  Navn: Ordinær
+  Beskrivelse: Vanlig øvelse
+  TidspunktStart: 2014-10-21 19:00
+  TidspunktSlutt: 2014-10-21 22:00
+  Sted: *denofa
+  Riggegruppe: 2
+  
+
+- Aktivitet: Oppdrag
+  Navn: Bylørdag
+  Beskrivelse: Vi setter Fredrikstad på hodet med feiende flott musikk for siste gang i år
+  TidspunktStart: 2014-11-08 11:00
+  TidspunktSlutt: 2014-11-08 16:00
+  Sted: &fredrikstad
+    Navn: Fredrikstad sentrum
+    Lengdegrad: 59.214929
+    Breddegrad: 10.939728
+  Riggegruppe: 1
+  
+  
+- Aktivitet: Konsert
+  Navn: Nyttår... for swing'ende!
+  Beskrivelse: Chicago
+  TidspunktStart: 2015-01-11 19:00
+  TidspunktSlutt: 2015-01-11 21:00
   Sted: *blaagrotte
   Riggegruppe: 2
