@@ -22,43 +22,43 @@
 #    Breddegrad: 10.939579
 ######################################################################################### 
 
-- Aktivitet: Øvelse
-  Navn: Sommerkonsert
-  Beskrivelse: Ekstraøvelse før sommerkonserten
-  TidspunktStart: 2014-06-14 14:00
-  Sted: &domkirken
-    Navn: Domkirken, Fredrikstad
-    Lengdegrad: 59.209403
-    Breddegrad: 10.94256
-  Riggegruppe: 1
+#- Aktivitet: Øvelse
+#  Navn: Sommerkonsert
+#  Beskrivelse: Ekstraøvelse før sommerkonserten
+#  TidspunktStart: 2014-06-14 14:00
+#  Sted: &domkirken
+#    Navn: Domkirken, Fredrikstad
+#    Lengdegrad: 59.209403
+#    Breddegrad: 10.94256
+#  Riggegruppe: 1
 
   
 # > betyr at linjeskift og annen whitespace skal beholdes 
-- Aktivitet: Konsert
-  Navn: Sommerkonsert
-  Beskrivelse: >
-    Vi avslutter sesongen med en konsert i Fredrikstad Domkirke. På programmet står blant annet:
-
-     - Tall Ships (Ron Goodwin)
-     - Og teksten var av Alf Prøysen (Tom Skjellum)
-     - Kronprins Olavs Honnørmarsj (Oscar Borg)
-     - SS Norway (Frode Thingnæs)
-     - Shepherd's Hey (Percy Grainger)
-     - The Lost Lady Found (Percy Grainger)
-     - Flåklypa (Lars Erik Gudim)
-     - Bruremarsj frå Beiarn (Jan Magne Førde) - solist: Kenneth Angeland
-     - Umona (Jan Magne Førde)   
-  TidspunktStart: 2014-06-14 16:00
-  TidspunktSlutt: 2014-06-14 18:00
-  Sted: *domkirken
-  Riggegruppe: 1 
-  Antrekk: Svart
+#- Aktivitet: Konsert
+#  Navn: Sommerkonsert
+#  Beskrivelse: >
+#    Vi avslutter sesongen med en konsert i Fredrikstad Domkirke. På programmet står blant annet:
+#
+#     - Tall Ships (Ron Goodwin)
+#     - Og teksten var av Alf Prøysen (Tom Skjellum)
+#     - Kronprins Olavs Honnørmarsj (Oscar Borg)
+#     - SS Norway (Frode Thingnæs)
+#     - Shepherd's Hey (Percy Grainger)
+#     - The Lost Lady Found (Percy Grainger)
+#     - Flåklypa (Lars Erik Gudim)
+#    - Bruremarsj frå Beiarn (Jan Magne Førde) - solist: Kenneth Angeland
+#     - Umona (Jan Magne Førde)   
+#  TidspunktStart: 2014-06-14 16:00
+#  TidspunktSlutt: 2014-06-14 18:00
+#  Sted: *domkirken
+#  Riggegruppe: 1 
+#  Antrekk: Svart
   
   
-- Aktivitet: Sosialt
-  Navn: Sommeravslutning
-  Beskrivelse: Vi tar en heidundrende sommeravslutning på Langøens Båtforening på Kråkerøy.
-  TidspunktStart: 2014-06-14 19:00
+#- Aktivitet: Sosialt
+#  Navn: Sommeravslutning
+#  Beskrivelse: Vi tar en heidundrende sommeravslutning på Langøens Båtforening på Kråkerøy.
+#  TidspunktStart: 2014-06-14 19:00
 
 - Aktivitet: Oppdrag
   Navn: Glommafestivalen
@@ -94,7 +94,7 @@
   Riggegruppe: 1
 
 - Aktivitet: Øvelse
-  Navn: Ordinær
+  Navn: Øvelse
   Beskrivelse: Vanlig øvelse med Sverre som dirigent
   TidspunktStart: 2014-08-26 19:00
   TidspunktSlutt: 2014-08-26 22:00
@@ -112,7 +112,7 @@
   
   
 - Aktivitet: Øvelse
-  Navn: Ordinær
+  Navn: Øvelse
   Beskrivelse: Vanlig øvelse med Sverre som dirigent
   TidspunktStart: 2014-09-02 19:00
   TidspunktSlutt: 2014-09-02 22:00
@@ -129,7 +129,7 @@
   
   
 - Aktivitet: Øvelse
-  Navn: Ordinær
+  Navn: Øvelse
   Beskrivelse: Vanlig øvelse med Sverre som dirigent
   TidspunktStart: 2014-09-09 19:00
   TidspunktSlutt: 2014-09-09 22:00
@@ -138,7 +138,7 @@
   
   
 - Aktivitet: Øvelse
-  Navn: Ordinær
+  Navn: Øvelse
   Beskrivelse: Vanlig øvelse med Sverre som dirigent
   TidspunktStart: 2014-09-16 19:00
   TidspunktSlutt: 2014-09-16 22:00
@@ -146,7 +146,7 @@
   Riggegruppe: 2
 
 - Aktivitet: Øvelse
-  Navn: Ordinær
+  Navn: Øvelse
   Beskrivelse: Vanlig øvelse med Sverre som dirigent
   TidspunktStart: 2014-09-23 19:00
   TidspunktSlutt: 2014-09-23 22:00
@@ -154,7 +154,7 @@
   Riggegruppe: 2
   
 - Aktivitet: Øvelse
-  Navn: Ordinær
+  Navn: Øvelse
   Beskrivelse: Vanlig øvelse med Sverre som dirigent
   TidspunktStart: 2014-09-30 19:00
   TidspunktSlutt: 2014-09-30 22:00
@@ -162,7 +162,7 @@
   Riggegruppe: 2
   
 - Aktivitet: Øvelse
-  Navn: Ordinær
+  Navn: Øvelse
   Beskrivelse: Vanlig øvelse med Sverre som dirigent
   TidspunktStart: 2014-10-07 19:00
   TidspunktSlutt: 2014-10-07 22:00
@@ -170,7 +170,7 @@
   Riggegruppe: 2
   
 - Aktivitet: Øvelse
-  Navn: Ordinær
+  Navn: Øvelse
   Beskrivelse: Vanlig øvelse med Sverre som dirigent
   TidspunktStart: 2014-10-14 19:00
   TidspunktSlutt: 2014-10-14 22:00
@@ -205,7 +205,7 @@
   Riggegruppe: 2
   
 - Aktivitet: Øvelse
-  Navn: Ordinær
+  Navn: Øvelse
   Beskrivelse: Vanlig øvelse
   TidspunktStart: 2014-10-21 19:00
   TidspunktSlutt: 2014-10-21 22:00
