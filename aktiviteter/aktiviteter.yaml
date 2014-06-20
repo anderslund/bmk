@@ -124,7 +124,10 @@
   Beskrivelse: Storband-konsert for Lions
   TidspunktStart: 2014-08-30 18:00
   TidspunktSlutt: 2014-08-30 20:00
-  Sted: *domkirken
+  Sted: &domkirken
+    Navn: Domkirken, Fredrikstad
+    Lengdegrad: 59.209403
+    Breddegrad: 10.94256
   Riggegruppe: 1
   
   
